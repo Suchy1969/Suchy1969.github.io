@@ -38,6 +38,7 @@
     margin-top: 1px;
     float: left;
     color:white;
+    border-radius: 10px;
 }
 .panel2 {
     background-color: #818181;
@@ -48,6 +49,7 @@
     line-height: 1.8em;
     float: right;
     color: white;
+    border-radius: 10px;
 }
 img{
     width: 200px;
