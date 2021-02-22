@@ -54,7 +54,7 @@ img{
     height: 150px;
     border-radius: 15px;
     filter: sepia(60%);
-    border: 1px black solid;
+    border: 2px black solid;
 }
 table {
     height: 100%;
