@@ -36,7 +36,7 @@ html, body {
 
 .info {
     width: 75%;
-    height: auto;
+    height: 100%;
     flex-direction: column;
     margin-left: auto;
     margin-right: auto;
@@ -49,14 +49,15 @@ html, body {
         height: 750px; 
         background-image: url('baszczewski-dobry-programista-843a29.jpg');
   margin-left: 0px;
-  
+  float:left;
+
 }
 
 .bio {
     width: 50%;
     height: auto;
+    float:right;
+    margin-right:0px;
 }
-
-
 
 
